@@ -2,7 +2,7 @@
 .. module:: user_interface
    :platform: Unix
    :synopsis: Python module for the user Interface
-.. moduleauthor:: Aatheethyaa Dhanasekaran 
+.. moduleauthor:: alluri sai krishna rama chander raju
 
 This node implements an user interface and the user will be able to start/stop using the user interface in terminal
 
