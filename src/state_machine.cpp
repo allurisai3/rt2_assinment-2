@@ -1,7 +1,7 @@
 /**
  * \file state_machine.cpp
  * \brief This files defines a finite state machine for controlling the robot in the Gazebo environment
- * \author Aatheethyaa Dhanasekaran
+ * \author Alluri sai krishna rama chander raju
  * \version 1.0
  * \date 05/02/2022
  * 
