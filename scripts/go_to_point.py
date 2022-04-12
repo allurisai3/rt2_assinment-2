@@ -2,7 +2,7 @@
 ..module: go_to_point
     :platform:Unix
     :synopsis: This file contain the description of go_to_point node to control robot
-    :moduleauthor: Aatheethyaa Dhanasekaran
+    :moduleauthor: alluri sai krishna rama chander raju
     	
 Publisher:
     \cmd_vel
